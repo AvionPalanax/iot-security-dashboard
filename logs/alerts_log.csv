@@ -1,0 +1,7 @@
+Timestamp,Device ID,Anomaly Score,Action
+--,Device 1,1.0,Isolated
+--,Device 3,1.0,Isolated
+--,Device 1,1.0,Isolated
+--,Device 3,1.0,Isolated
+--,Device 1,1.0,Isolated
+--,Device 3,1.0,Isolated

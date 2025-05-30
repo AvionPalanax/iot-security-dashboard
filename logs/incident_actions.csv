@@ -1,0 +1,24 @@
+timestamp,incident_id,action_taken,status,notes
+2025-05-30 13:30:57,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:30:57,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:30:57,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:31:13,Device_2,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 13:31:13,Device_13,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:41,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:41,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:41,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:51,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:51,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:28:51,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:01,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:01,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:01,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:11,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:11,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:11,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:22,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:22,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:22,Device_10188,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:32,Device_10177,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:32,Device_10186,Auto-Isolated due to high anomaly and policy breach
+2025-05-30 14:29:32,Device_10188,Auto-Isolated due to high anomaly and policy breach
